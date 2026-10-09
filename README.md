@@ -2,7 +2,7 @@
 
 Proyecto de prueba Git
 
-Este es un proyecto de prueba para practicar el uso de Git y GitHub mediante ramas y commits.
+Este es un proyecto de prueba con el fin de practicar el uso de Git y GitHub mediante ramas y commits.
 
 🚀 Descripción
 
@@ -19,6 +19,7 @@ Crear una rama feature-readme.
 Modificar la documentación.
 Hacer commit de los cambios.
 Fusionar la rama con main.
+
 📦 Instalación
 
 Clona el repositorio:
