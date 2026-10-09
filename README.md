@@ -20,7 +20,7 @@ Modificar la documentación.
 Hacer commit de los cambios.
 Fusionar la rama con main.
 
-Instalación
+📦 Instalación
 
 Clona el repositorio:
 
