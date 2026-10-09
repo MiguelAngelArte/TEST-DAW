@@ -30,7 +30,7 @@ Accede a la carpeta del proyecto:
 
 cd <NOMBRE_DEL_REPOSITORIO>
 
-🌿 Flujo de trabajo Git
+Flujo de trabajo Git
 
 Crea una nueva rama para modificar este README:
 
